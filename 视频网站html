@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>期末作品</title>
+		<link rel="stylesheet" type="text/css" href="css/期末作品.css" />
+	</head>
+	<body link="pink" alink="blue" vlink="white">
+		<main>
+			<div id="top" >
+				<ul>
+				<li><a href="#">HOME</a></li>
+				<li><a href="#">CATEGORY</a></li>
+				<li><a href="#">HOT</a></li>
+				<li><a href="#">NEW</a></li>
+				<li><a href="#">ROUND</a></li>	
+				<w class="w">电影梦工厂</w>	
+				<p class="ss" >🔍</p>
+			<!-- <audio src="music/我在.mp3" controls="controls" loop ></audio> -->
+				</ul>
+			</div>
+			<div id="middle">
+				<img src="img/星空.jpg" width="100%" height="700px">
+				<p id="p3">Star Cinema</p>
+			</div>
+			<div id="project">
+				<div id="menu">
+					<ul id="p2">
+					<li id="p1">电影推荐</li>
+					<p id="p1">院线新片</p>
+					<p id="p1">美国大片</p>
+					<p id="p1">绝色港片</p>
+					<p id="p1">喜剧电影</p>
+					<p id="p1">动画电影</p>
+					<p id="p1">动作电影</p>
+				    </ul>
+				</div>
+				<p>🎥ROMANCE</p>
+				<div id="left">
+					<img src="img/蝙蝠侠.jpg"width="100%" height="100%" >
+					<p class="p3">Batman Dark Knight</p>
+					<p class="p6">9.5</p>
+				</div>
+				<div id="right">
+					<div class="box">
+					    <img src="img/勇敢的心.jpeg"width="100%"height="100%" >
+					</div>
+					<div class="box">
+						<img src="img/斯巴达三百.jpg"width="100%"height="100%"  >
+					</div>
+					<div class="box">
+						<img src="img/天国王朝.jpg"width="100%" height="100%" >
+					</div>
+					<div class="box">
+						<img src="img/亚瑟王.jpg"width="100%" height="100%" >
+					</div>
+				</div>
+				<p>👊ACTION</p>
+				<div id="left">
+					<img src="img/最后的巫师.jpg"width="100%" height="100%" >
+					<p class="p3">Witch Hunter</p>
+					<p class="p6">8.5</p>
+					<p></p>
+				</div>
+				<div id="right">
+					<div class="box">
+					    <img src="img/终结者.jpg"width="100%"height="100%" >
+					</div>
+					<div class="box">
+						<img src="img/特别行动.jpg"width="100%"height="100%"  >
+					</div>
+					<div class="box">
+						<img src="img/巴尔干.jpg"width="100%" height="100%" >
+					</div>
+					<div class="box">
+						<img src="img/巴霍巴利.jpg"width="100%" height="100%" >
+					</div>
+				</div>
+				<p>💖LOVE</p>
+				<div id="left">
+					<img src="img/一生一世3.jpg"width="100%" height="100%" >
+					<p class="p3">FOREVER AND EVER</p>
+					<p class="p6">9.0</p>
+				</div>
+				<div id="right">
+					<div class="box">
+					    <img src="img/傲慢与偏见.jpg"width="100%"height="100%" >
+					</div>
+					<div class="box">
+						<img src="img/幸福终点站.jpg"width="100%"height="100%"  >
+					</div>
+					<div class="box">
+						<img src="img/怦然心动.jpg"width="100%" height="100%" >
+					</div>
+					<div class="box">
+						<img src="img/明天你是否依然爱我.jpg"width="100%" height="100%" >
+					</div>
+				</div>
+				<p>✨CARTOON</p>
+				<div id="left">
+					<img src="img/龙猫.jfif"width="100%" height="100%" >
+					<p class="p3">TOTORO</p>
+					<p class="p6">9.2</p>
+				</div>
+				<div id="right">
+					<div class="box">
+					    <img src="img/悬崖上的金鱼姬.jpg"width="100%"height="100%" >
+					</div>
+					<div class="box">
+						<img src="img/疯狂原始人2.jpg"width="100%"height="100%"  >
+					</div>
+					<div class="box">
+						<img src="img/机器人总动员1.jpg"width="100%" height="100%" >
+					</div>
+					<div class="box">
+						<img src="img/疯狂动物城.jpg"width="100%" height="100%" >
+					</div>
+				</div>
+				<p>✨SCIENCE FICTION</p>
+				<div id="left">
+					<img src="img/阿凡达2.jpg"width="100%" height="100%" >
+					<p class="p3">AVATAR</p>
+					<p class="p6">9.3</p>
+				</div>
+				<div id="right">
+					<div class="box">
+					    <img src="img/星际穿越.jpg"width="100%"height="100%" >
+					</div>
+					<div class="box">
+						<img src="img/信条.jpg"width="100%"height="100%"  >
+					</div>
+					<div class="box">
+						<img src="img/盗梦空间.jpg"width="100%" height="100%" >
+					</div>
+					<div class="box">
+						<img src="img/流浪地球.jpg"width="100%" height="100%" >
+					</div>
+				</div>
+				<div id="more">
+					<p class="more">MORE</p>
+					<p class="p9">▲</p>
+				</div>
+			</div>
+			<div id="bottom">
+				<hr class="hr1"></hr>
+			</div>
+		</main>
+		<div id="base">
+				<p>1904070155周龙庆</p>
+		</div>
+	</body>
+</html>
